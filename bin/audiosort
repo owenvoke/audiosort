@@ -7,4 +7,5 @@ if (file_exists(__DIR__ . '/../../../autoload.php')) {
 }
 $app = new Symfony\Component\Console\Application('Audio Sort', '1.0.0');
 $app->add(new \pxgamer\AudioSort\SortCommand());
+$app->add(new \pxgamer\AudioSort\ConfigCommand());
 $app->run();
