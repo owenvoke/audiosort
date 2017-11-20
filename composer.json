@@ -1,18 +1,18 @@
 {
-  "name": "pxgamer/audiosort",
-  "description": "Sort audio files into src and root directories.",
-  "minimum-stability": "stable",
-  "license": "MIT",
-  "require": {
-    "php": ">=7.1.0",
-    "symfony/console": "^3.3.9"
-  },
-  "autoload": {
-    "psr-4": {
-      "pxgamer\\AudioSort\\": "src/"
-    }
-  },
-  "bin": [
-    "bin/audiosort"
-  ]
+    "name": "pxgamer/audiosort",
+    "description": "Sort audio files into src and root directories.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0",
+        "symfony/console": "^3.3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "pxgamer\\AudioSort\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/audiosort"
+    ]
 }
