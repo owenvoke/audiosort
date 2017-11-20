@@ -1,6 +1,10 @@
-# Release Notes
+# Changelog
 
-## v1.0.0 (2017-09-28)
+All notable changes to `audiosort` will be documented in this file.
+
+Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
+
+## v1.0.0 - 2017-09-28
 
 ### Added
 - Sorts `wav` and `mp3` files into a specified structure
