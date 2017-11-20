@@ -11,7 +11,6 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 /**
  * Class SortCommand
- * @package pxgamer\AudioSort
  */
 class SortCommand extends Command
 {

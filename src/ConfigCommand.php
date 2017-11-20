@@ -10,7 +10,6 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 
 /**
  * Class ConfigCommand
- * @package pxgamer\AudioSort
  */
 class ConfigCommand extends Command
 {
